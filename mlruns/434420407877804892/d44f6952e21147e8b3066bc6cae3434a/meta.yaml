@@ -1,0 +1,15 @@
+artifact_uri: /root/pydataberlin-2019/mlruns/434420407877804892/d44f6952e21147e8b3066bc6cae3434a/artifacts
+end_time: 1730103635630
+entry_point_name: ''
+experiment_id: '434420407877804892'
+lifecycle_stage: active
+run_id: d44f6952e21147e8b3066bc6cae3434a
+run_name: abrasive-fawn-939
+run_uuid: d44f6952e21147e8b3066bc6cae3434a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730103633357
+status: 3
+tags: []
+user_id: root

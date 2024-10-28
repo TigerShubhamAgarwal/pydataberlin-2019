@@ -1,0 +1,15 @@
+artifact_uri: /root/pydataberlin-2019/mlruns/434420407877804892/e5661afd76804dfea21baea21884bcbc/artifacts
+end_time: 1730103631136
+entry_point_name: ''
+experiment_id: '434420407877804892'
+lifecycle_stage: active
+run_id: e5661afd76804dfea21baea21884bcbc
+run_name: intrigued-shoat-26
+run_uuid: e5661afd76804dfea21baea21884bcbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730103624902
+status: 3
+tags: []
+user_id: root

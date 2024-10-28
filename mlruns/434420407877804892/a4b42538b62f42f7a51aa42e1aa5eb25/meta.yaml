@@ -1,0 +1,15 @@
+artifact_uri: /root/pydataberlin-2019/mlruns/434420407877804892/a4b42538b62f42f7a51aa42e1aa5eb25/artifacts
+end_time: 1730103633311
+entry_point_name: ''
+experiment_id: '434420407877804892'
+lifecycle_stage: active
+run_id: a4b42538b62f42f7a51aa42e1aa5eb25
+run_name: whimsical-toad-864
+run_uuid: a4b42538b62f42f7a51aa42e1aa5eb25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730103631179
+status: 3
+tags: []
+user_id: root
